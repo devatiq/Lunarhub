@@ -36,6 +36,8 @@ h1, h2, h4, h4, h5, h6 {
     margin: 0 auto;
 }
 
+
+/*---------------Header Section -------------*/
 #siteheader {
     background-color: #0a74a6;
     height: 80px;
@@ -145,6 +147,8 @@ ul.submenu li:last-child a{
     border-bottom: 0;
 }
 
+/*---------------Hero Section -------------*/
+
 #herosec {
     padding: 200px 0;
     background: #111 url(../images/bg-1.jpg) no-repeat fixed center;
@@ -215,6 +219,8 @@ ul.submenu li:last-child a{
 .contactbtn.small a i{
     font-size: 16px;
 }
+
+/*---------------Flexbox Section -------------*/
 
 #contenbox {
     padding: 60px 0;
@@ -291,6 +297,8 @@ ul.submenu li:last-child a{
     margin-right: 0;
 }
 
+/*---------------Feature 1 Section -------------*/
+
 #featuresec1 {
     padding: 10px 0 60px 0;
 }
@@ -323,6 +331,8 @@ ul.submenu li:last-child a{
     box-shadow:2px 2px 15px rgba(0,0,0,0.3);
     border-radius: 3px;
 }
+
+/*---------------CTA Section -------------*/
 
 #ctasec {
     width: 100%;
@@ -390,6 +400,8 @@ ul.submenu li:last-child a{
     margin-top: 100px;
 }
 
+/*---------------Gallery Section -------------*/
+
 #gallerysec {
     padding: 70px 0;
 }
@@ -440,6 +452,8 @@ ul.submenu li:last-child a{
     cursor: pointer;
 }
 
+/*---------------Feature 2 Section -------------*/
+
 #featuresec2 {
     padding: 10px 0 80px 0;
 }
@@ -472,6 +486,8 @@ ul.submenu li:last-child a{
     box-shadow:2px 2px 15px rgba(0,0,0,0.3);
     border-radius: 3px;
 }
+
+/*---------------Contact Section -------------*/
 
 #contactarea {
     background: #333 url(../images/bg-3.jpg) no-repeat center;
@@ -532,6 +548,8 @@ ul.submenu li:last-child a{
     color: #f1f1f1;
 }
 
+/*---------------Footer Section -------------*/
+
 #sitefooter{
     background-color: #0a74a6;
     padding: 40px 0;
@@ -570,6 +588,8 @@ ul.submenu li:last-child a{
     color: #f1f1f1;
     margin-top: 20px;
 }
+
+/*---------------Responsive Section -------------*/
 
 .mobilenav {
     display: none;
