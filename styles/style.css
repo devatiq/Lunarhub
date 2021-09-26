@@ -679,7 +679,7 @@ ul.submenu li:last-child a{
         margin-top: 20px;
     }
 
-    featuresec1 .container {
+    #featuresec1 .container, #featuresec2 .container {
         flex-flow: column wrap;
     }
 
